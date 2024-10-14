@@ -1,6 +1,6 @@
 <ul>
                               <li><h1>Calculator App Feature</h1></li>
-                              <li><h2 style="color:#5bc0de;">suitable for modern color structure</h2></li>
+                              <li><h2 style="color:#5bc0de;">Suitable for modern color structure</h2></li>
                                <li><h2 style="color:#10b6e9;">Full Active Calculator</h2></li>
                               <li>Dark Theme</li>
                               <li>Light Theme</li>
